@@ -449,9 +449,9 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 
 **The file should contain:**
 ```
-Student Name: [Your Full Name]
-Student ID: [Your Student ID]
-GitHub Username: [your-github-username]
+Student Name: [Reyam Alhayzan]
+Student ID: [445052172]
+GitHub Username: [Reyam-alhayzan4]
 Repository Link: https://github.com/Reyam-alhayzan445/OS-Assignment1-Reyam-alhayzan.git
 Video Link: https://drive.google.com/drive/folders/1hOparcDviFRIaMa0KUj8GxZbi8zKr-ca?usp=sharing
 Date Submitted: [2 April,2026]
