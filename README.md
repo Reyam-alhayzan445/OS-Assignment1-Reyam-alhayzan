@@ -452,9 +452,9 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 Student Name: [Your Full Name]
 Student ID: [Your Student ID]
 GitHub Username: [your-github-username]
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
-Date Submitted: [Submission Date]
+Repository Link: https://github.com/Reyam-alhayzan445/OS-Assignment1-Reyam-alhayzan.git
+Video Link: https://drive.google.com/drive/folders/1hOparcDviFRIaMa0KUj8GxZbi8zKr-ca?usp=sharing
+Date Submitted: [2 April,2026]
 ```
 
 **Example:**
@@ -462,9 +462,9 @@ Date Submitted: [Submission Date]
 Student Name: Mohammed Ahmed Abdullah
 Student ID: 442105123
 GitHub Username: mohammed-ahmed-441
-Repository Link: https://github.com/mohammed-ahmed-441/OS-Assignment1-Mohammed-Ahmed
-Video Link: https://drive.google.com/file/d/1aBcDeFgHiJkLmNoPqRsTuVwXyZ/view?usp=sharing
-Date Submitted: March 31, 2026
+Repository Link:
+Video Link:
+Date Submitted:  2, 2026
 ```
 
 ### Before You Submit - Final Checklist:
